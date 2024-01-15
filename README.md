@@ -5,7 +5,7 @@ A project charter is a formal short document that states a project exists and pr
 Course:- Project Management and System Analysis <br>
 
 Documents included:- <br>
-1] Video presentation of the Project Goals, Scope, and description <br> <a href ="https://drive.google.com/file/d/1TWFTRAj4KG6r3Q8p5LkCwwf1U2iqPXDp/view?usp=sharing"> link </a>
+1] Video presentation of the Project Goals, Scope, and description <a href ="https://drive.google.com/file/d/1TWFTRAj4KG6r3Q8p5LkCwwf1U2iqPXDp/view?usp=sharing"> link </a> <br>
 2] Project Charter <br>
 3] Project Report <br>
 4] Project Pitch Slides and Final presentation slides <br>
