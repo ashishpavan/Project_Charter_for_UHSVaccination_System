@@ -7,6 +7,6 @@ Course:- Project Management and System Analysis <br>
 Documents included:- <br>
 1] Video presentation of the Project Goals, Scope, and description <br>
 2] Project Charter <br>
-3] Project Proposal <br>
+3] Project Report <br>
 4] Project Pitch Slides and Final presentation slides <br>
 
